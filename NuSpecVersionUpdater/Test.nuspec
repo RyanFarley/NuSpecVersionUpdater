@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<metadata>
+		<id>Some Assembly</id>
+		<version>0.0</version>
+		<authors>
+			<author>Ryan Farley</author>
+		</authors>
+		<description>This is a test file</description>
+		<language>en-US</language>
+	</metadata>
+</package>
